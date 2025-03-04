@@ -14,6 +14,17 @@ Windows:
 `powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/TRC-Loop/ModListGenerator/main/install.bat -OutFile install.bat" && install.bat
 `
 
+## Run ModListGenerato`
+Use:
+
+`modlistgen --help`
+
+or just
+
+`modlistgen`
+
+for the GUI.
+
 ## Features
 
 - Extract mod name and author from Forge, NeoForge, and Fabric mod JARs
@@ -78,4 +89,11 @@ The extracted mod list will be saved in the chosen output directory as:
 ## License
 
 This project is licensed under the MIT License.
+
+## Uninstall
+Linux/MacOS:
+
+`sudo rm /usr/local/bin/modlistgen`
+
+`rm -rf ~/ModListGenerator`
 
