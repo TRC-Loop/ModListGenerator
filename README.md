@@ -14,7 +14,7 @@ Windows:
 `powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/TRC-Loop/ModListGenerator/main/install.bat -OutFile install.bat" && install.bat
 `
 
-## Run ModListGenerato`
+## Run ModListGenerator
 Use:
 
 `modlistgen --help`
