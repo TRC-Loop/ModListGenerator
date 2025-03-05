@@ -7,21 +7,28 @@ ModListGenerator is a tool that extracts mod names and authors from Forge, NeoFo
 ## Install
 Linux/MacOS:
 
-`curl -o install.sh https://raw.githubusercontent.com/TRC-Loop/ModListGenerator/main/install.sh && bash install.sh`
+```sh
+curl -o install.sh https://raw.githubusercontent.com/TRC-Loop/ModListGenerator/main/install.sh && bash install.sh
+```
 
 Windows:
 
-`powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/TRC-Loop/ModListGenerator/main/install.bat -OutFile install.bat" && install.bat
-`
+```sh
+powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/TRC-Loop/ModListGenerator/main/install.bat -OutFile install.bat" && install.bat
+```
 
 ## Run ModListGenerator
 Use:
 
-`modlistgen --help`
+```sh
+modlistgen --help
+```
 
 or just
 
-`modlistgen`
+```sh
+modlistgen
+```
 
 for the GUI.
 
