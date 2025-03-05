@@ -1,4 +1,6 @@
 # ModListGenerator
+![GitHub License](https://img.shields.io/github/license/TRC-Loop/ModListGenerator) 
+![GitHub Repo stars](https://img.shields.io/github/stars/TRC-Loop/ModListGenerator?style=flat)
 
 ## Overview
 
